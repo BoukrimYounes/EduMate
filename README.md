@@ -17,24 +17,27 @@
 - [📖 Table of Contents](#-table-of-contents)
 - [📷Demo](#-Demo) 
 - [⛓ Description ](#-description)
-    - [User Management ](#User-Management)
-    - [Course Management ](#Course-Management)
-    - [Blog Management ](#Blog-Management)
-    - [Student Management ](#Student-Management)
-    - [Dashboard](#Dashboard)
-    - [Dark Mode](#Dark-Mode)
+    - [User Management ](#user-management)
+    - [Course Management ](#course-management)
+    - [Blog Management ](#blog-management)
+    - [Student Management ](#student-management)
+    - [Dashboard](#dashboard)
+    - [Dark Mode](#dark-mode)
+    - [Fully Responsive](#fully-responsive)
 - [🔨 Development](#-development)
     - [Tech Stack](#tech-stack)
-- [☑️ Installation](#Installation)
-    - [Prerequisites ](#Prerequisites)
-    - [Backend Setup (Laravel ](#Backend-Setup-(Laravel))
-    - [Frontend Setup (React) ](#Frontend-Setup-(React))
-    - [Usage ](#Usage) 
+- [☑️ Installation](#installation)
+    - [Prerequisites ](#prerequisites)
+    - [Backend Setup (Laravel ](#backend-setup-(laravel))
+    - [Frontend Setup (React) ](#frontend-setup-(react))
+    - [Usage ](#usage)
+-[🤝 Collaborators](#collaborators)
 </details>
 
 # 📷 Demo: 
 
-https://github.com/user-attachments/assets/8b341e89-d78c-4c01-aeff-8b787145f53d
+https://github.com/user-attachments/assets/d39e62b7-bf71-4759-badb-df514f7ecff0
+
 
 
 # ⛓ Description:
@@ -69,6 +72,9 @@ https://github.com/user-attachments/assets/8b341e89-d78c-4c01-aeff-8b787145f53d
 ## 8. Light Mode:
 - Optimal for bright environments.
 - Ensures readability and clarity.
+
+## 9.Fully Responsive:
+Edumate is designed to adapt to all device types, whether you're using a desktop, tablet, or mobile. The platform ensures a smooth and user-friendly experience across all screen sizes.
 
 # 🔨 Development
 
@@ -135,4 +141,15 @@ npm start
 2. Log in to access your profile and manage data.
 3. Navigate through the platform to manage courses, students, blogs, and reports.
 4. Use the dashboard to monitor system statistics and activity.
+
+# 🤝 Collaborators
+
+We collaborated to develop **Edumate**, each contributing to different aspects of the project:
+
+| Name                | GitHub Profile                                      | Role                                                |
+|-------------------- |---------------------------------------------------- |---------------------------------------------------- |
+| **Younes BOUKRIM**  | [BoukrimYounes](https://github.com/BoukrimYounes)   | UI/UX Designer, Frontend Developer (React)          |
+| **Chaimaa AFKIR**   | [Chaimaa101](https://github.com/Chaimaa101)         | Backend Developer , API Tester                      |
+
+
 
