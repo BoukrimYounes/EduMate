@@ -102,7 +102,7 @@ Edumate is designed to adapt to all device types, whether you're using a desktop
 1. **Clone the repository:**  
    ```bash
    git clone https://github.com/Chaimaa101/EduMate.git
-   cd invoice-app
+   cd EduMate
 2. **Install dependencies:**
    ```bash
    composer install
